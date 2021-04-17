@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, white, blue);
+}
+
+.heading {
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
+.title {
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
+.title2 {
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
+.title3 {
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+
+.title4 {
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
