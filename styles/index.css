@@ -26,17 +26,17 @@ body {
 .title3 {
     font-family: Arial;
     color: black;
-    text-align: center;
+    text-align: ;
 }
 
 .title4 {
     font-family: Arial;
     color: black;
-    text-align: center;
+    text-align: left;
 }
 
 .title5 {
     font-family: Arial;
     color: black;
-    text-align: center;
+    text-align: right;
 }
