@@ -20,7 +20,7 @@ document.getElementById("click").onclick = function() {
 }
 document.getElementById("stop").onclick = function() {
     isActivated = false;
-    alert("Your score was:", counter / document.getElementById("time").innerHTML, "cps.");
+    alert("Your score was: " + counter / document.getElementById("time").innerHTML + " cps.");
     counter = 0;
     document.getElementById("time").innerHTML = 0;
     document.getElementById("button").innerHTML = 0;
