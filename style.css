@@ -10,3 +10,14 @@ body {
     text-align: center;
 }
 
+.block {
+    display: block;
+    width: 40%;
+    height: 20%;
+    border: none;
+    background-color: #4CAF50;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
