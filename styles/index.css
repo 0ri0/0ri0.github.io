@@ -1,42 +1,37 @@
-body {
-    padding: 0;
-    margin: 0;
-    background: linear-gradient(to right, white, blue);
-    text-align: center;
-}
-
-.heading {
-    font-family: Arial;
-    color: black;
-    text-align: center;
-}
-
-.title {
-    font-family: Arial;
-    color: black;
-    text-align: center;
-}
-
-.title2 {
-    font-family: Arial;
-    color: black;
-    text-align: center;
-}
-
-.title3 {
-    font-family: Arial;
-    color: black;
-    text-align: center;
-}
-
-.title4 {
-    font-family: Arial;
-    color: black;
-    text-align: center;
-}
-
-.title5 {
-    font-family: Arial;
-    color: black;
-    text-align: center;
-}
+    body {
+        padding: 0;
+        margin: 0;
+        background: linear-gradient(to right, white, blue);
+        text-align: center;
+    }
+    
+    .heading {
+        font-family: Arial;
+        color: black;
+        text-align: center;
+    }
+    
+    ul li {
+        list-style: none;
+        display: inline-block;
+        float: none;
+        line-height: 100px;
+    }
+    
+    ul li a {
+        text-decoration: none;
+        font-size: 10px;
+        font-family: Arial;
+        color: black;
+        padding: 0 20px;
+    }
+    
+    nav {
+        width: 100%;
+        min-height: 100%;
+        background-color: gray;
+    }
+    
+    body {
+        background-color: (to right white, blue);
+    }
