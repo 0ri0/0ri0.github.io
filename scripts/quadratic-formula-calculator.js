@@ -3,7 +3,7 @@ document.getElementById("submit").onclick = function() {
     let b = parseFloat(document.getElementById("a").innerText);
     let c = parseFloat(document.getElementById("a").innerText);
 
-    let dicriminator = b * b - 4 * a * c;
+    let discriminator = b * b - 4 * a * c;
 
     if (discriminator < 0) {
         document.getElementById("x1").innerText = "x₁ ∉ ℝ";
