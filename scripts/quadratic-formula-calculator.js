@@ -1,7 +1,7 @@
 document.getElementById("submit").onclick = function() {
     let a = parseFloat(document.getElementById("a").innerText);
-    let b = parseFloat(document.getElementById("a").innerText);
-    let c = parseFloat(document.getElementById("a").innerText);
+    let b = parseFloat(document.getElementById("b").innerText);
+    let c = parseFloat(document.getElementById("c").innerText);
 
     let discriminator = b * b - 4 * a * c;
 
