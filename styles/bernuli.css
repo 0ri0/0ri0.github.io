@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bernuli {
+    float: center;
+    text-align: center;
+    font-family: arial;
+    font-size: 100px;
+}
+
+.bernuli2 {
+    float: right;
+    text-align: right;
+    font-family: arial;
+    font-size: 30px;
+}
+
+.formula {
+    float: left;
+    text-align: left;
+    font-family: arial;
+    font-size: 100px;
+}
+
+.formulaimg {
+    width: 30px;
+}
