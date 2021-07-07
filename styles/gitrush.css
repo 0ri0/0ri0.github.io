@@ -1,0 +1,12 @@
+body
+{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+embed, iframe, object {
+    max-height: 270px;
+    max-width: 480px;
+    margin: 0px;
+    padding: 0px;
+}
