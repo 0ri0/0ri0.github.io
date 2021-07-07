@@ -1,12 +1,22 @@
 body
 {
     display: block;
-    margin: 0px;
+    margin: auto;
     padding: 0px;
+    box-align: center;
+    align-items: center;
+    align-content: center;
 }
 embed, iframe, object {
     max-height: 270px;
     max-width: 480px;
-    margin: 0px;
+    margin: auto;
     padding: 0px;
+    align-tracks: center;
+    align-content: center;
+    justify-content: center;
+}
+.center {
+    margin: auto;
+    width: 50%;
 }
